@@ -3,12 +3,11 @@ name: Update README.md
 
 on:
   push:
-    # 只有推送到 main 分支才会触发
     branches:
       - main
   schedule:
-    # 每天早上五点，自动触发
-    - cron: "* * * * *"
+    # 每天下午5点下班更新
+    - cron: "0 5 * * *"
 
 jobs:
   update-readme:
