@@ -3,6 +3,10 @@
 <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=iceman201&show_icons=true&count_private=true&theme=onedark&include_all_commits=true&hide_border=true"/>
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+
+
+ Last Updated on 29/08/2021
 <!--END_SECTION:waka-->
 
 <!--
