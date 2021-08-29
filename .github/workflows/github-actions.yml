@@ -1,0 +1,33 @@
+
+name: Update README.md
+
+on:
+  push:
+    # 只有推送到 main 分支才会触发
+    branches:
+      - main
+  schedule:
+    # 每天早上五点，自动触发
+    - cron: "0 5 * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - name: Generate github profile
+        run: |-
+          cat README.md
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "liguo@jiao.co.nz"
+          git config --global user.name "iceman201"
+          git pull
+          git add -A
+          git commit -m "Daily: update README.md" || exit 0
+          git push
