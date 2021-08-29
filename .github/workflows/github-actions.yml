@@ -14,12 +14,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repo
-        uses: actions/checkout@v2
-      - name: Generate github profile
-        run: |-
-          cat README.md
-        env:
+      - uses: anmol098/waka-readme-stats@master
+        with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
           SHOW_PROJECTS: "False"
