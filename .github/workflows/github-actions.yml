@@ -11,8 +11,9 @@ on:
     - cron: "* * * * *"
 
 jobs:
-  generate:
+  update-readme:
     runs-on: ubuntu-latest
+    name: Update this repo's README
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
