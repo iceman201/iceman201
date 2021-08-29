@@ -2,6 +2,8 @@
 <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceman201&show_icons=true&layout=compact&theme=onedark&hide_border=true"/>
 <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=iceman201&show_icons=true&count_private=true&theme=onedark&include_all_commits=true&hide_border=true"/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **iceman201/iceman201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
