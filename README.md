@@ -20,6 +20,8 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -41,7 +43,9 @@ Zsh                      3 mins              █░░░░░░░░░░�
 Mac                      56 mins             █████████████████████████   100.0%
 
 ```
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+
+
+ Last Updated on 30/08/2021
 <!--END_SECTION:waka-->
 
 <!--
