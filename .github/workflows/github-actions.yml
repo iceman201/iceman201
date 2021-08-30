@@ -6,8 +6,8 @@ on:
     branches:
       - main
   schedule:
-    # 每天下午5点下班更新
-    - cron: "30 * * * *"
+    # 每天下午5点下班更新NZT
+    - cron: "0 5 * * *"
 
 jobs:
   update-readme:
