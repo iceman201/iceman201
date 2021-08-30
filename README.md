@@ -5,11 +5,17 @@
 
 <p align="center">
 <br/>
+<a href="https://liguo.jiao.co.nz">
+  <img alt="Home Page" width="65px" src="https://image.flaticon.com/icons/svg/725/725322.svg" />
+</a>
 <a href="https://www.linkedin.com/in/liguojiaouc">
   <img alt="LinkdeIn" width="65px" src="https://image.flaticon.com/icons/svg/725/725337.svg" />
 </a>
 <a href="https://open.spotify.com/user/1233857145?si=96fbba946f584236">
   <img alt="Spotify" width="65px" src="https://image.flaticon.com/icons/svg/725/725281.svg" />
+</a>
+<a href="https://www.hackerrank.com/iceman201">
+  <img alt="Hacker Rank" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
 </a>
 </p>
 
