@@ -1,7 +1,25 @@
-### Hi there 👋
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+### Hi 👋🏻
+<p align="center">
+ <img alt="LinkdeIn" width="360px" src="https://media.giphy.com/media/fbyGEE9mlqDyE/giphy.gif?cid=ecf05e479e3sjlimgnu6742uu0i3fsxrozdeiq7ngv5qowed&rid=giphy.gif&ct=g" />
+</p>
 
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/liguojiaouc">
+  <img alt="LinkdeIn" width="65px" src="https://image.flaticon.com/icons/svg/725/725337.svg" />
+</a>
+<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+  <img alt="Spotify" width="65px" src="https://image.flaticon.com/icons/svg/725/725281.svg" />
+</a>
+</p>
+
+<p align="center">
+<br/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceman201&show_icons=true&layout=compact&theme=onedark&hide_border=true"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=iceman201&show_icons=true&count_private=true&theme=onedark&include_all_commits=true&hide_border=true"/>
+</p>
+
+<!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -23,13 +41,8 @@ Zsh                      3 mins              █░░░░░░░░░░�
 Mac                      56 mins             █████████████████████████   100.0%
 
 ```
-
-
- Last Updated on 30/08/2021
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 <!--END_SECTION:waka-->
-
-<img align="right" height="168px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceman201&show_icons=true&layout=compact&theme=onedark&hide_border=true"/>
-<img align="left" height="168px" src="https://github-readme-stats.vercel.app/api?username=iceman201&show_icons=true&count_private=true&theme=onedark&include_all_commits=true&hide_border=true"/>
 
 <!--
 **iceman201/iceman201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
