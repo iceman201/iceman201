@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/liguojiaouc">
   <img alt="LinkdeIn" width="65px" src="https://image.flaticon.com/icons/svg/725/725337.svg" />
 </a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+<a href="https://open.spotify.com/user/1233857145?si=96fbba946f584236">
   <img alt="Spotify" width="65px" src="https://image.flaticon.com/icons/svg/725/725281.svg" />
 </a>
 </p>
