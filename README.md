@@ -26,6 +26,8 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%2040%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -34,8 +36,8 @@
 ⌚︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Other                    49 mins             ██████████████░░░░░░░░░░░   58.01% 
-XML                      36 mins             ██████████░░░░░░░░░░░░░░░   41.99%
+Other                    49 mins             ██████████████░░░░░░░░░░░   58.29% 
+XML                      35 mins             ██████████░░░░░░░░░░░░░░░   41.71%
 
 🔥 Editors: 
 VS Code                  1 hr 24 mins        ████████████████████████░   98.57% 
@@ -47,7 +49,7 @@ Mac                      1 hr 25 mins        ███████████�
 ```
 
 
- Last Updated on 04/03/2022 12:25:01 UTC
+ Last Updated on 04/03/2022 12:34:23 UTC
 <!--END_SECTION:waka-->
 
 <!--
