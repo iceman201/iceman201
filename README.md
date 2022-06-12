@@ -30,7 +30,7 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: Pacific/Auckland
@@ -47,7 +47,7 @@ Mac                      6 mins              ███████████�
 ```
 
 
- Last Updated on 12/06/2022 06:37:23 UTC
+ Last Updated on 12/06/2022 08:17:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
