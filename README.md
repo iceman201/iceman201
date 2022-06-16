@@ -26,7 +26,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -36,19 +36,19 @@
 ⌚︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.0%
+Other                    1 min               █████████████████████████   100.0%
 
 🔥 Editors: 
-Zsh                      0 secs              █████████████████████████   100.0% 
+Zsh                      1 min               █████████████████████████   100.0% 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+Mac                      1 min               █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 16/06/2022 12:28:08 UTC
+ Last Updated on 16/06/2022 12:37:23 UTC
 <!--END_SECTION:waka-->
 
 <!--
