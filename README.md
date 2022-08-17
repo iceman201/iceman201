@@ -6,16 +6,16 @@
 <p align="center">
 <br/>
 <a href="https://liguo.jiao.co.nz">
-  <img alt="Home Page" width="65px" src="https://github.com/iceman201/iceman201/blob/main/assets/4202014_finder_apple_logo_social_social media_icon.png" />
+  <img alt="Home Page" height= "65px" width="65px" src="https://github.com/iceman201/iceman201/blob/main/assets/finder_apple_icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/liguojiaouc">
-  <img alt="LinkdeIn" width="65px" src="https://github.com/iceman201/iceman201/blob/main/assets/4202085_linkedin_logo_social_social%20media_icon.png" />
+  <img alt="LinkdeIn" height= "65px" width="65px" src="https://github.com/iceman201/iceman201/blob/main/assets/linkedin_icon.svg" />
 </a>
 <a href="https://open.spotify.com/user/1233857145?si=96fbba946f584236">
-  <img alt="Spotify" width="65px" src="https://github.com/iceman201/iceman201/blob/main/assets/4202068_spotify_logo_social_social%20media_icon.png" />
+  <img alt="Spotify" height= "65px" width="65px" src="https://github.com/iceman201/iceman201/blob/main/assets/spotify_icon.svg" />
 </a>
 <a href="https://www.hackerrank.com/iceman201">
-  <img alt="Hacker Rank" width="65px" src="https://github.com/iceman201/iceman201/blob/main/assets/4373234_hackerrank_logo_logos_icon.png" />
+  <img alt="Hacker Rank" height= "65px" width="65px" src="https://github.com/iceman201/iceman201/blob/main/assets/hackerrank_icon.svg" />
 </a>
 </p>
 
