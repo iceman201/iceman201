@@ -1,22 +1,23 @@
 ### Hi 👋🏻
+
 <p align="center">
  <img alt="LinkdeIn" width="160px" src="https://media.giphy.com/media/fbyGEE9mlqDyE/giphy.gif?cid=ecf05e479e3sjlimgnu6742uu0i3fsxrozdeiq7ngv5qowed&rid=giphy.gif&ct=g" />
 </p>
+<br/>
 
 <p align="center">
-<br/>
 <a href="https://liguo.jiao.co.nz">
   <img alt="Home Page" height= "35px" width="35px" src="https://github.com/iceman201/iceman201/blob/main/assets/finder_apple_icon.svg" />
 </a>
-
+&emsp;
 <a href="https://www.linkedin.com/in/liguojiaouc">
   <img alt="LinkdeIn" height= "35px" width="35px" src="https://github.com/iceman201/iceman201/blob/main/assets/linkedin_icon.svg" />
 </a>
-
+&emsp;
 <a href="https://open.spotify.com/user/1233857145?si=96fbba946f584236">
   <img alt="Spotify" height= "35px" width="35px" src="https://github.com/iceman201/iceman201/blob/main/assets/spotify_icon.svg" />
 </a>
-
+&emsp;
 <a href="https://www.hackerrank.com/iceman201">
   <img alt="Hacker Rank" height= "35px" width="35px" src="https://github.com/iceman201/iceman201/blob/main/assets/hackerrank_icon.svg" />
 </a>
