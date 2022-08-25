@@ -30,7 +30,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -40,18 +40,21 @@
 ⌚︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    33 mins             ████████████████████████░   98.19% 
+Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05% 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  34 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      34 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 25/08/2022 12:37:58 UTC
+ Last Updated on 25/08/2022 12:44:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
