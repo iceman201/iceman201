@@ -40,20 +40,18 @@
 ⌚︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Other                    10 mins             ████████████████████░░░░░   80.97% 
-Bash                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.87% 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 17/10/2022 12:35:03 UTC
+ Last Updated on 17/10/2022 12:41:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
