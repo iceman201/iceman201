@@ -30,9 +30,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2016%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -55,7 +55,7 @@ Mac                      1 hr 30 mins        ███████████�
 ```
 
 
- Last Updated on 16/02/2023 20:23:31 UTC
+ Last Updated on 16/02/2023 22:11:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
