@@ -40,17 +40,17 @@
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/04/2023 12:17:58 UTC
+ Last Updated on 20/04/2023 12:20:39 UTC
 <!--END_SECTION:waka-->
 
 <!--
