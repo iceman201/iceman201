@@ -58,9 +58,3 @@
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 </p>
-
-<p align="center">
-<br/>
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceman201&show_icons=true&layout=compact&theme=onedark&hide_border=true"/>
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=iceman201&show_icons=true&count_private=true&theme=onedark&include_all_commits=true&hide_border=true"/>
-</p>
